@@ -1,3 +1,7 @@
+Tic Tac Toe Game
+
+This is a ReactJS built Tic Tac Toe game that was created during the Road To Hire Program.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
